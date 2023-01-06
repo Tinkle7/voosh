@@ -1,0 +1,15 @@
+.Partner_container {
+  width: 100%;
+  row-gap: 20px;
+}
+.Partner_container > div {
+  width: 35%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  margin: auto;
+}
+.Partner_container > div > img {
+  width: 100%;
+}
