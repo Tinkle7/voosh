@@ -1,11 +1,13 @@
-# Getting Started with Create React App
+# Getting Started
 
 1.npm install
+<br/>
 2.npm start
 
 ## Tech Stack
 
 1.React
+<br/>
 2.Chakar UI
 
 ### deploy link
